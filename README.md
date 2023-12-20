@@ -1,3 +1,3 @@
 # Devops
-eddited by Web
+ set by hamid
 for testing into GitBash
