@@ -1,4 +1,3 @@
 # Devops
-this is by laptop eddited
-
+ set by hamid
 for testing into GitBash
