@@ -54,6 +54,7 @@ The repository showcases the use of the following tools and frameworks:
 
 ```plaintext
 .
+├── linux/                 # Linux Usefull command 
 ├── ci_cd/                 # CI/CD pipeline configurations
 ├── docker/                # Dockerfiles and Compose files
 ├── infra-as-code/         # Terraform and CloudFormation templates
